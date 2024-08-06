@@ -1,2 +1,2 @@
 # Myfolio
-A portfolio website. Techstack used- Html, CSS, Jabvascript
+A portfolio website. Techstack used- Html, CSS, Javascript
