@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgba(43, 103, 113, 1) ;
+}
+.sansita-swashed{
+    font-family: "Sansita Swashed", system-ui;
+    font-weight: 300;
+    font-style: normal;
+  }
+.share-regular {
+    font-family: "Share", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  
+.navbar {
+  background-color: rgba(43, 103, 113, 1);
+  display: flex;
+  width: 100%;
+  align-items: start;
+  gap: 20px;
+  color: rgba(255, 186, 166, 1);
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 21px 62px 35px;
+}
+
+.Myfolio {
+  letter-spacing: 1.75px;
+  font-weight: 500;
+  font-size: 35px;
+  font-family: "Sansita Swashed";
+  cursor: pointer;
+}
+.sidenav{
+  display: flex;
+  margin-top: 13px;
+  gap: 40px 49px;
+  text-align: center;
+  letter-spacing: 0.46px;
+  font-family: "Share";
+  font-weight: 500;
+  font-size: 23px;
+}
+
+.home{
+display: flex;
+width: 120px;
+height: 30px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+}
+.home:hover {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Aboutme{
+    display: flex;
+    width: 120px;
+    height: 30px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    }
+.Aboutme:hover {
+        color: white;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+.Resume{
+        display: flex;
+        width: 120px;
+        height: 30px;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        }
+.Resume:hover {
+            color: white;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+ .Works{
+            display: flex;
+            width: 120px;
+            height: 30px;
+            flex-direction: column;
+            justify-content: center;
+            flex-shrink: 0;
+            }
+ .Works:hover {
+                color: white;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+ .Contact{
+                    display: flex;
+                    width: 120px;
+                    height: 30px;
+                    flex-direction: column;
+                    justify-content: center;
+                    flex-shrink: 0;
+                    }
+.Contact:hover {
+                            color: white;
+                            text-decoration: underline;
+                            cursor: pointer;
+                        }
+            
+        
