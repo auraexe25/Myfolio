@@ -111,4 +111,34 @@ flex-shrink: 0;
                             cursor: pointer;
                         }
             
-        
+.hi-i-am-veena-budding-software-engineer {
+    position: absolute;
+    top: 24%;
+    padding-left:178px ;
+    padding-top: 45px;
+    color: rgba(255, 186, 166, 1);
+    font-size: 30px;
+    letter-spacing: 0.6px;
+    font-family: "Share";
+}
+
+.a-curious-learner {
+    position: absolute; 
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    letter-spacing: 0.6px;
+    font-family: "Share";
+    width: 519px;
+    height: 83px;
+    padding-left:178px;
+    padding-top: 243px;
+}
+.image-container {
+    position: absolute;
+    left: 983px;
+    top: 24%;
+    right: 0;
+    width: 423x;
+    height: 456px;
+
+}
