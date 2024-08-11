@@ -328,3 +328,40 @@ flex-shrink: 0;
     object-fit: contain;
     border-radius: 15px;
 }   
+.view-project {
+    border: 3px solid #ffbaa6;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 15px;
+    background-color: #ffbaa6;
+    padding: 14px 26px;
+    width: 180px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #2B6771;
+    font-family: Share;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+}
+
+.view-project:hover {
+    cursor: pointer;
+    background-color: #2B6771;
+    border: 3px solid #ffbaa6;
+    color: #ffbaa6;
+}
+
+.div{
+        position: relative;
+        top: 1100px;
+        background-color: rgba(36, 85, 93, 1);
+        height:600px;
+        width:100%;
+}
