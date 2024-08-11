@@ -212,7 +212,7 @@ flex-shrink: 0;
 
 .aboutme{
         position: absolute;
-        top: 800px;
+        top: 790px;
         left: 380px;
         width: 986px;
         height: 316px;
@@ -252,7 +252,7 @@ flex-shrink: 0;
 
     .mys{
         position: relative;
-        top:850px;
+        top:810px;
         left: 100px;
         width: 1270px;
         height: 316px;
@@ -284,7 +284,7 @@ flex-shrink: 0;
    .works{
     position:relative;
     left: 178px;
-    top: 900px;
+    top: 910px;
     color: rgba(255, 186, 166, 1);
     font-size: 30px;
     font-weight: 400;
@@ -294,7 +294,7 @@ flex-shrink: 0;
 
    .wb{
     position: relative;
-        top: 950px;
+        top: 960px;
         left: 100px;
         width: 1270px;
         height: 410px;
@@ -365,3 +365,5 @@ flex-shrink: 0;
         height:600px;
         width:100%;
 }
+
+
