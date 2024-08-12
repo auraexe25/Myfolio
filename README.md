@@ -19,8 +19,6 @@ Welcome to **Myfolio**, a personal portfolio website showcasing my projects, ski
 **Myfolio** is designed to provide a comprehensive view of my work, including details about the projects I’ve built, the skills I’ve acquired, and the experience I’ve gained. The website is responsive, ensuring an optimal viewing experience across a wide range of devices.
 
 ## Features
-
-- **Responsive Design**: The website is fully responsive, making it accessible on both desktop and mobile devices.
 - **Interactive Elements**: Includes interactive elements such as a project gallery, skill ratings, and more.
 - **Clean UI/UX**: Focuses on a minimalist and user-friendly interface.
 - **Smooth Scrolling and Animations**: Provides a polished browsing experience with smooth transitions and animations.
