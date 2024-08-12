@@ -229,13 +229,13 @@ flex-shrink: 0;
     h3{
         color: rgba(255, 186, 166, 1);
         font-family: Share;
-        padding: 3px 3px 0 3px;
+        padding: 5px 5px 0 5px;
     }
 
     p {
-        font-size: 20px;
+        font-size: 16px;
         letter-spacing: 0.8px;
-        padding: 0 3px 3px 3px;
+        padding: 0 5px 5px 5px;
         font-family: "Share";
         color: rgb(255, 255, 255);
     }
