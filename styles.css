@@ -139,7 +139,7 @@ flex-shrink: 0;
 
 .download-cv {
     border:3px solid #ffbaa6;
-    top:70%;
+    top:80%;
     left: 178px;
     border-radius: 15px;
     background-color: #ffbaa6;
@@ -164,7 +164,7 @@ flex-shrink: 0;
     color: #ffbaa6;
 }
 .cme{
-    top:70%;
+    top:80%;
     left: 400px;
     border-radius: 15px;
     background-color: #2B6771;
