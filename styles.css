@@ -106,7 +106,7 @@ flex-shrink: 0;
                         }
             
 .hi-i-am-veena-budding-software-engineer {
-    position: relative;
+    position: absolute;
     top: 24%;
     padding-left:178px ;
     padding-top: 45px;
@@ -117,7 +117,7 @@ flex-shrink: 0;
 }
 
 .a-curious-learner {
-    position: relative;
+    position: absolute; 
     color: rgb(255, 255, 255);
     font-size: 25px;
     letter-spacing: 0.6px;
@@ -139,7 +139,8 @@ flex-shrink: 0;
 
 .download-cv {
     border:3px solid #ffbaa6;
-    top:80%;
+    top:60%;
+    position:absolute;
     left: 178px;
     border-radius: 15px;
     background-color: #ffbaa6;
@@ -164,7 +165,8 @@ flex-shrink: 0;
     color: #ffbaa6;
 }
 .cme{
-    top:80%;
+    position:absolute;
+    top:60%;
     left: 400px;
     border-radius: 15px;
     background-color: #2B6771;
