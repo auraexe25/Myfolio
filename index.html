@@ -16,15 +16,15 @@
     <div class="navbar">
         <div class="Myfolio"> Myfolio</div>
         <div class="sidenav"> 
-            <div class="home">Home</div>
-            <div class="Aboutme">About me</div>
-            <div class="Works">Works</div>
-            <div class="Resume">Resume</div>
-            <div class="Contact">Contact</div>
+            <div class="home"><a href="#home">Home</a></div>
+            <div class="Aboutme"><a href="#aboutme">About me</a></div>
+            <div class="Works"><a href="#works">Works</a></div>
+            <div class="Resume"><a href="#resume">Resume</a></div>
+            <div class="Contact"><a href="#contact">Contact</a></div>
         </div>
 
     </div>
-    <div class="hi-i-am-veena-budding-software-engineer">
+    <div class="hi-i-am-veena-budding-software-engineer" id="home">
         <span style="font-weight: 400; color: rgba(255, 186, 166, 1)">Hi! I am</span>
         <span
           style="
@@ -49,10 +49,10 @@
         <img src="assets/ee6f9bde3b285544853f308faac6b2c3.png" alt="Profile Image">
     </div>
 <div class="download-cv">Download CV</div>
-<div class="cme">Contact me</div>
+<div class="cme" > <a href="#contact">Contact me</a></div>
         
 
-        <div class="about-me">
+        <div class="about-me" id="aboutme">
             About Me   
         </div>
         <div class="image-container2">
@@ -85,7 +85,7 @@
                 <h3>Figma</h3>
             </div>
         </div>
-        <div class="works"> 
+        <div class="works" id="works"> 
             My Works
         </div>
         <div class="wb">
@@ -110,7 +110,7 @@
             </div>
         </div>
         
-        <div class="div">
+        <div class="div" id="contact">
 
 <div class="div-2">
     <div class="column">
@@ -152,6 +152,46 @@
               class="img"
             />
             <div class="veenasahu-195-gmail-com">veenasahu195@gmail.com</div>
+          </div>
+          <div class="social-media">
+            
+            <a href="https://linktr.ee/veenasahu">
+              <img
+                loading="lazy"
+                src="assets/linktree.png"
+                class="img"
+              />
+            </a>
+            <a href="https://www.instagram.com/veena__sahu/">
+                <img
+                  loading="lazy"
+                  src="assets/instagram.png"
+                  class="img"
+                />
+              </a>
+              <a href="https://x.com/Veena__Sahu">
+                <img
+                  loading="lazy"
+                  src="assets/twitter.png"
+                  class="img"
+                />
+              </a>
+              <a href="https://github.com/auraexe25">
+                <img
+                  loading="lazy"
+                  src="assets/github.png"
+                  class="img"
+                />
+              </a>
+              <a href="https://www.linkedin.com/in/veena-sahu2512/">
+                <img
+                  loading="lazy"
+                  src="assets/linkedin.png"
+                  class="img"
+                />
+              </a>
+
+            
           </div>
         </div>
       </div>
@@ -265,6 +305,15 @@
     margin-top: 16px;
     flex-basis: auto;
     flex-grow: 1;
+  }
+
+  .social-media {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    aspect-ratio: 1;
+    width:100px;
+    height:100px;
   }
   .column-2 {
     display: flex;
