@@ -218,7 +218,7 @@ flex-shrink: 0;
         height: 316px;
         display:flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content:start;
         border-radius: 15px;
         border-right: 1px #0A4A55;
         border-bottom: 1px #0A4A55;
